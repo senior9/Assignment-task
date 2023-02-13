@@ -1,0 +1,10 @@
+
+body{
+min-height: 0px !important;;
+}
+.root{
+    margin: 0 auto;
+    width: 1220px !important;
+    min-height: 0;
+    background-color: azure;
+}
